@@ -24,3 +24,8 @@ body {
   #special{
 text-decoration: underline;  
 }
+
+img{
+ border: 2px solid #000; /* 2px solid black border */
+      
+}
